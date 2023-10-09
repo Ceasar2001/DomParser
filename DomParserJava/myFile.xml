@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<class>
+	<student>
+		<id>211</id>
+		<username>ceasar</username>
+		<EnrolledCourse>BSIT</EnrolledCourse>
+		<mode>programming</mode>
+		<duration>4th year</duration>
+	</student>
+		
+	<student>
+		<id>212</id>
+		<username>ian</username>
+		<EnrolledCourse>Web developer</EnrolledCourse>
+		<mode>hands on</mode>
+		<duration>4th year</duration>
+	</student>
+	
+	<student>
+		<id>213</id>
+		<username>jhon</username>
+		<EnrolledCourse>Competitive Programming</EnrolledCourse>
+		<mode>online live course</mode>
+		<duration>8 weeks</duration>
+	</student>
+	
+	<student>
+		<id>214</id>
+		<username>mike</username>
+		<EnrolledCourse>Complete Interview Preparation</EnrolledCourse>
+		<mode>online self paced</mode>
+		<duration>Lifetime</duration>
+	</student>
+	
+</class>

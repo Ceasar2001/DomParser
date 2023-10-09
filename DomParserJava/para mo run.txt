@@ -1,0 +1,5 @@
+open new terminal then type ni 
+    ->  javac xmlExtractor.java
+
+then kani dayon
+    ->  java xmlExtractor.java
